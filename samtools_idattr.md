@@ -7,7 +7,7 @@
       --additional-attr gene_name \
       --idattr=gene_id - /your/path/to/yourannotation.gtf  > /your/path/to/yourcount.txt
       
-for idattr -Name, the error code is   Feature ENSG00000223972.5 does not contain a 'Name' attribute
+for idattr -Name, the error is : "Feature ENSG00000223972.5 does not contain a 'Name' attribute"
 
 
 Try one of the enlisted attributes instead 
